@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+pnum=1
+GUID={82532b9b-6c18-40f9-8770-6b73a7e44763}
+name_ru=Google卫星图
+name=谷歌卫星图
+name_uk=谷歌卫星图
+ParentSubMenu=Google
+DefURLBase=http://mt1.google.com/maps/vt?lyrs=s%40727&hl=zh-CN
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=sat
+Ext=.jpg
+DefHotKey=71
+ContentType=image/jpeg
+Version=721

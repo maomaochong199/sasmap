@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+pnum=48
+GUID={8174badf-4295-42c7-bda7-d6c19fcc67d5}
+asLayer=1
+name_ru=谷歌交通图
+name=谷歌交通图
+name_uk=谷歌交通图
+ParentSubMenu=Google
+NameInCache=googletraf
+DefURLBase=http://mt1.google.com/vt?hl=zh-CN&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+DelAfterShow=1
